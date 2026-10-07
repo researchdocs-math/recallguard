@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+data/features/
+data/raw/
+results/reproduced/
+results/reproduced_analysis/

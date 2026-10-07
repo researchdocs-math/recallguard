@@ -1,0 +1,5 @@
+SYNERGY version 1.0 is released under CC0 1.0 Universal by its source repository.
+Source DOI: https://doi.org/10.34894/HE6NAQ
+License: https://creativecommons.org/publicdomain/zero/1.0/
+Legal text: https://creativecommons.org/publicdomain/zero/1.0/legalcode
+The source manifest preserves the repository license declaration and attribution.

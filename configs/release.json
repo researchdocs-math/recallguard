@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "python": "3.12.1",
+  "platform": "macOS-14.8.1-arm64-arm-64bit",
+  "primary_code_snapshot": "Hashes in protocol.json identify the implementation used for the primary runs. Release code adds the secondary exact audit, output-directory controls, and analysis utilities.",
+  "source_sha256": {
+    "prepare_data.py": "2acd25f53a1ca9de4c3aa54fe316a7c310e61605330f01d0c7d57378856e2c1b",
+    "features.py": "0930608bbfbda05d48a5ca95224214fc7fba1be4fd8ce4fcee6d57b23c4aa5ac",
+    "certificates.py": "6d1f59054b0a45e183bf5fd35d3871e04599a0cdc89a516885061aac4bf5c5c2",
+    "experiment.py": "dd88cc84d2db833c6a0e2ce6649c567f80da8c935efa9bb355dbf3486d410fc3",
+    "validate_martingale.py": "0e55abc4f23ed9dd886c92fc33b4ec0b2086e2b741a547ba4e3f98094bc76bb5",
+    "analyze_secondary.py": "bfb4b8ad60021e201fb96024d83063adfe9c409907846c47b5028ae984327b7c",
+    "check_reproduction.py": "ec8dbfe8fc003de3890b141829d1880a998d8e61ee9af819fd9adb371c341423",
+    "analyze.py": "11f9d6b7adc2b242cb709baebc88ac9171c5701849b4436768116c0482acaf38"
+  }
+}

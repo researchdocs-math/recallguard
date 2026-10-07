@@ -1,0 +1,32 @@
+{
+  "topics": [
+    "Bos_2018",
+    "Muthu_2021",
+    "Walker_2018"
+  ],
+  "seeds": [
+    100
+  ],
+  "scenarios": [
+    "clean",
+    "uniform05",
+    "uniform10",
+    "uniform20",
+    "difficulty20",
+    "cluster20"
+  ],
+  "policies": [
+    "forward",
+    "fixed",
+    "adaptive",
+    "frozen",
+    "blind",
+    "frozen_exact"
+  ],
+  "alphas": [
+    0.05
+  ],
+  "targets": [
+    0.95
+  ]
+}

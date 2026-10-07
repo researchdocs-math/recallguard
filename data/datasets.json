@@ -1,0 +1,210 @@
+[
+  {
+    "topic": "Appenzeller-Herzog_2019",
+    "n": 2873,
+    "relevant": 26,
+    "missing_abstract": 676,
+    "source_label_rows": 2873,
+    "sha256": "c85b264d454957ca0f50f27902b648f0a55d55e8d635425f63dd32ae7caae87b"
+  },
+  {
+    "topic": "Bos_2018",
+    "n": 4878,
+    "relevant": 10,
+    "missing_abstract": 62,
+    "source_label_rows": 4878,
+    "sha256": "aaea9ebcefe52a5b0b8da32fe88f61f8c6aeb9be4a8961e079d55a1ebe053629"
+  },
+  {
+    "topic": "Brouwer_2019",
+    "n": 38114,
+    "relevant": 62,
+    "missing_abstract": 426,
+    "source_label_rows": 38114,
+    "sha256": "0242f2ae8c22236e26b2d572e3a4b31c08c1067efc08293053c80af0c3fbfd5c"
+  },
+  {
+    "topic": "Chou_2003",
+    "n": 1908,
+    "relevant": 15,
+    "missing_abstract": 110,
+    "source_label_rows": 1908,
+    "sha256": "eadcf71379f038596d34cb682c1d6bda22c3f4504030e5c06866c0ded19f8bb2"
+  },
+  {
+    "topic": "Chou_2004",
+    "n": 1630,
+    "relevant": 9,
+    "missing_abstract": 189,
+    "source_label_rows": 1630,
+    "sha256": "2997874dee7f6a48960eb968033456fcf226e7b3c424ebf73505e6430eff70e3"
+  },
+  {
+    "topic": "Donners_2021",
+    "n": 258,
+    "relevant": 15,
+    "missing_abstract": 8,
+    "source_label_rows": 258,
+    "sha256": "8592715c3d38bbb37c98c6cb59dc5302dd44baaeb571571e8325217b9a706d18"
+  },
+  {
+    "topic": "Hall_2012",
+    "n": 8793,
+    "relevant": 104,
+    "missing_abstract": 0,
+    "source_label_rows": 8793,
+    "sha256": "a502757a26fa1fdacebb53f016a838b9b7a791c2f244c8004c1d79c0a77cc599"
+  },
+  {
+    "topic": "Jeyaraman_2020",
+    "n": 1175,
+    "relevant": 96,
+    "missing_abstract": 2,
+    "source_label_rows": 1175,
+    "sha256": "5c35d6aaa00d4c7c2a66c0d14136a393aab1d2b0546a1f2b673b737f90598752"
+  },
+  {
+    "topic": "Leenaars_2019",
+    "n": 5812,
+    "relevant": 17,
+    "missing_abstract": 49,
+    "source_label_rows": 5812,
+    "sha256": "b485e0d61d9cd158ad8b711e2876d50faf46d83f30fa631b356b0d771bb96988"
+  },
+  {
+    "topic": "Leenaars_2020",
+    "n": 7216,
+    "relevant": 583,
+    "missing_abstract": 376,
+    "source_label_rows": 7216,
+    "sha256": "0dcb8ceef4a9e0a7095899371be861a3220186c441c619fd3cb4e4981b73fdd2"
+  },
+  {
+    "topic": "Meijboom_2021",
+    "n": 882,
+    "relevant": 37,
+    "missing_abstract": 57,
+    "source_label_rows": 882,
+    "sha256": "b36430995694069711f008d9917bb360bcbfbada9154b3339010f0c2a9c46821"
+  },
+  {
+    "topic": "Menon_2022",
+    "n": 975,
+    "relevant": 74,
+    "missing_abstract": 6,
+    "source_label_rows": 975,
+    "sha256": "d257debaa819405c2a444c7b44a75bd6f15723df5e3392d2afa229bc768f4ae7"
+  },
+  {
+    "topic": "Moran_2021",
+    "n": 5214,
+    "relevant": 111,
+    "missing_abstract": 43,
+    "source_label_rows": 5214,
+    "sha256": "57b599e62f27dbc3a0090db91dccf4c7fed3c687f9cc4b1aec5a03327eb657b6"
+  },
+  {
+    "topic": "Muthu_2021",
+    "n": 2719,
+    "relevant": 336,
+    "missing_abstract": 24,
+    "source_label_rows": 2719,
+    "sha256": "5d74c3aaf92629decf36bc489baf9ca4f13fca23c1b8391915ac82d98f233d32"
+  },
+  {
+    "topic": "Nelson_2002",
+    "n": 366,
+    "relevant": 80,
+    "missing_abstract": 8,
+    "source_label_rows": 366,
+    "sha256": "88ddabde4c0c3532486e1191ebf66685d8149ce27e41639fca5c134dc66f0d18"
+  },
+  {
+    "topic": "Oud_2018",
+    "n": 952,
+    "relevant": 20,
+    "missing_abstract": 15,
+    "source_label_rows": 952,
+    "sha256": "2ef66064649c1975ad0b9929c4d70f90589cce927de23c895e02e7c58df9368e"
+  },
+  {
+    "topic": "Radjenovic_2013",
+    "n": 5935,
+    "relevant": 48,
+    "missing_abstract": 0,
+    "source_label_rows": 5935,
+    "sha256": "3348f16f4f1728273e41d382af787caa997ccb9bd0a9d5802f9b3896a33fcbcb"
+  },
+  {
+    "topic": "Sep_2021",
+    "n": 271,
+    "relevant": 40,
+    "missing_abstract": 1,
+    "source_label_rows": 271,
+    "sha256": "5e1f373d98ed4afd1ef2c84b073137a405d61b5753a1be97d9c0e4cb5eeac963"
+  },
+  {
+    "topic": "Smid_2020",
+    "n": 2627,
+    "relevant": 27,
+    "missing_abstract": 110,
+    "source_label_rows": 2627,
+    "sha256": "fc52e7dbb26528320b567a2f31afc3f9d5f302d9636522b84a0c5f15eddee0c3"
+  },
+  {
+    "topic": "Walker_2018",
+    "n": 48375,
+    "relevant": 762,
+    "missing_abstract": 1533,
+    "source_label_rows": 48375,
+    "sha256": "f6404fd41454ac9c6d1d30631a3f2dc37be16d6fad2e2e6013f36b5cf2976292"
+  },
+  {
+    "topic": "Wassenaar_2017",
+    "n": 7668,
+    "relevant": 111,
+    "missing_abstract": 429,
+    "source_label_rows": 7668,
+    "sha256": "9340698dd58da373a3c5952b89c5a6dd4fe322872215952a78c11ed0a380847e"
+  },
+  {
+    "topic": "Wolters_2018",
+    "n": 4280,
+    "relevant": 19,
+    "missing_abstract": 381,
+    "source_label_rows": 4280,
+    "sha256": "95f4e78de6f4a6fc668b24ec58df8b59be6414732b450ae4a8cb234b077b16bc"
+  },
+  {
+    "topic": "van_Dis_2020",
+    "n": 9128,
+    "relevant": 72,
+    "missing_abstract": 166,
+    "source_label_rows": 9128,
+    "sha256": "6d9862e8838d9df1e4017a71d5b08bbe357ea76226e9c334cef0ca37b88db88f"
+  },
+  {
+    "topic": "van_de_Schoot_2018",
+    "n": 4544,
+    "relevant": 38,
+    "missing_abstract": 71,
+    "source_label_rows": 4544,
+    "sha256": "c77d52ec8c90dbc23ea6192711c011afb0747842c3a67e3c08472e46dc2ea5d9"
+  },
+  {
+    "topic": "van_der_Valk_2021",
+    "n": 725,
+    "relevant": 89,
+    "missing_abstract": 10,
+    "source_label_rows": 725,
+    "sha256": "da4a87a5fdd8a038b756b4c2524567bd24e6d91e7710bdd349440f4b10514476"
+  },
+  {
+    "topic": "van_der_Waal_2022",
+    "n": 1970,
+    "relevant": 33,
+    "missing_abstract": 13,
+    "source_label_rows": 1970,
+    "sha256": "d940465dcef89d7f4f261b3b1291732252733de6d2171b54e6586361f112d9a1"
+  }
+]

@@ -1,0 +1,55 @@
+{
+  "topics": [
+    "Appenzeller-Herzog_2019",
+    "Bos_2018",
+    "Chou_2003",
+    "Chou_2004",
+    "Jeyaraman_2020",
+    "Leenaars_2019",
+    "Meijboom_2021",
+    "Menon_2022",
+    "Moran_2021",
+    "Muthu_2021",
+    "Nelson_2002",
+    "Oud_2018",
+    "Radjenovic_2013",
+    "Sep_2021",
+    "Smid_2020",
+    "Walker_2018",
+    "Wassenaar_2017",
+    "Wolters_2018",
+    "van_Dis_2020",
+    "van_de_Schoot_2018",
+    "van_der_Valk_2021",
+    "van_der_Waal_2022"
+  ],
+  "seeds": [
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109
+  ],
+  "scenarios": [
+    "clean",
+    "uniform05",
+    "uniform10",
+    "uniform20",
+    "difficulty20",
+    "cluster20"
+  ],
+  "policies": [
+    "frozen_exact"
+  ],
+  "alphas": [
+    0.05
+  ],
+  "targets": [
+    0.95
+  ]
+}

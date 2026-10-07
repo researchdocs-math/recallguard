@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "Please cite this software when using the RecallGuard experiments."
+type: software
+title: "RecallGuard: Experiments for Certifying Recall When Reviewers Err"
+version: 1.0.0
+date-released: 2026-10-07
+license: MIT
+authors:
+  - family-names: Yavas
+    given-names: Cemil Emre
+    orcid: "https://orcid.org/0009-0006-9552-1731"
+    affiliation: Georgia Southern University
+    email: cemil@fairesresearch.org
+  - family-names: Chen
+    given-names: Lei
+    orcid: "https://orcid.org/0000-0002-3919-8056"
+    affiliation: Georgia Southern University
+keywords:
+  - technology-assisted review
+  - recall certification
+  - confidence sequences
+  - relevance assessment
+  - active learning
+abstract: >-
+  Reproducible experiments for recall certification with fallible first-pass
+  screening, adaptive targeted adjudication, and uniform reference audits.
+  Includes normalized public review data, fixed configurations, certificate
+  implementations, complete reference trajectories, paired statistical
+  analyses, and CPU/GPU implementation checks.

@@ -1,0 +1,10 @@
+{
+  "n_workflows": 6600,
+  "valid_dynamic_workflows": 5280,
+  "valid_dynamic_failures": 19,
+  "minimum_valid_recall": 0.918918918918919,
+  "mean_valid_recall": 0.9985251054461814,
+  "topic_count": 22,
+  "logical_violations": 0,
+  "wall_seconds_sum": 11145.110614322068
+}

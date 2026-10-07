@@ -1,0 +1,110 @@
+[
+  {
+    "N": 500,
+    "R": 5,
+    "bias": 0.25,
+    "paths": 30000,
+    "seed": 100502,
+    "device": "mps",
+    "crossings": 643,
+    "rate": 0.021433333333333332,
+    "maximum_cpu_gpu_log_difference": 8.624102267873468e-07,
+    "seconds": 2.1547301670070738
+  },
+  {
+    "N": 500,
+    "R": 5,
+    "bias": 1.0,
+    "paths": 30000,
+    "seed": 100510,
+    "device": "mps",
+    "crossings": 313,
+    "rate": 0.010433333333333333,
+    "maximum_cpu_gpu_log_difference": 7.860278024018896e-07,
+    "seconds": 0.5073093749815598
+  },
+  {
+    "N": 500,
+    "R": 5,
+    "bias": 4.0,
+    "paths": 30000,
+    "seed": 100540,
+    "device": "mps",
+    "crossings": 0,
+    "rate": 0.0,
+    "maximum_cpu_gpu_log_difference": 4.76480600308804e-07,
+    "seconds": 0.5069592500221916
+  },
+  {
+    "N": 500,
+    "R": 25,
+    "bias": 0.25,
+    "paths": 30000,
+    "seed": 102502,
+    "device": "mps",
+    "crossings": 932,
+    "rate": 0.031066666666666666,
+    "maximum_cpu_gpu_log_difference": 1.1463036773129431e-06,
+    "seconds": 0.5215029999963008
+  },
+  {
+    "N": 500,
+    "R": 25,
+    "bias": 1.0,
+    "paths": 30000,
+    "seed": 102510,
+    "device": "mps",
+    "crossings": 906,
+    "rate": 0.0302,
+    "maximum_cpu_gpu_log_difference": 6.378131565121237e-07,
+    "seconds": 0.52027525001904
+  },
+  {
+    "N": 500,
+    "R": 25,
+    "bias": 4.0,
+    "paths": 30000,
+    "seed": 102540,
+    "device": "mps",
+    "crossings": 598,
+    "rate": 0.019933333333333334,
+    "maximum_cpu_gpu_log_difference": 5.309830748423394e-07,
+    "seconds": 0.5546629999880679
+  },
+  {
+    "N": 500,
+    "R": 100,
+    "bias": 0.25,
+    "paths": 30000,
+    "seed": 110002,
+    "device": "mps",
+    "crossings": 1006,
+    "rate": 0.03353333333333333,
+    "maximum_cpu_gpu_log_difference": 9.892937957722836e-07,
+    "seconds": 0.5146338330232538
+  },
+  {
+    "N": 500,
+    "R": 100,
+    "bias": 1.0,
+    "paths": 30000,
+    "seed": 110010,
+    "device": "mps",
+    "crossings": 1042,
+    "rate": 0.03473333333333333,
+    "maximum_cpu_gpu_log_difference": 9.356261116977294e-07,
+    "seconds": 0.4910777499899268
+  },
+  {
+    "N": 500,
+    "R": 100,
+    "bias": 4.0,
+    "paths": 30000,
+    "seed": 110040,
+    "device": "mps",
+    "crossings": 944,
+    "rate": 0.031466666666666664,
+    "maximum_cpu_gpu_log_difference": 1.230454529821401e-06,
+    "seconds": 0.47542962501756847
+  }
+]

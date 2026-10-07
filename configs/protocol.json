@@ -1,0 +1,56 @@
+{
+  "recorded_utc": "2026-10-07T20:50:21.592475+00:00",
+  "development_topics": [
+    "Donners_2021",
+    "Hall_2012",
+    "Leenaars_2020",
+    "Brouwer_2019"
+  ],
+  "confirmatory_topics": [
+    "Appenzeller-Herzog_2019",
+    "Bos_2018",
+    "Chou_2003",
+    "Chou_2004",
+    "Jeyaraman_2020",
+    "Leenaars_2019",
+    "Meijboom_2021",
+    "Menon_2022",
+    "Moran_2021",
+    "Muthu_2021",
+    "Nelson_2002",
+    "Oud_2018",
+    "Radjenovic_2013",
+    "Sep_2021",
+    "Smid_2020",
+    "Walker_2018",
+    "Wassenaar_2017",
+    "Wolters_2018",
+    "van_Dis_2020",
+    "van_de_Schoot_2018",
+    "van_der_Valk_2021",
+    "van_der_Waal_2022"
+  ],
+  "primary_target": 0.95,
+  "alpha": 0.05,
+  "primary_cost": "first_pass_calls + 4*reference_calls",
+  "cost_sensitivity": [
+    1,
+    2,
+    4,
+    8
+  ],
+  "comparisons": [
+    "dynamic versus PRN on shared adaptive trajectories",
+    "adaptive versus fixed and forward under dynamic certificate",
+    "frozen two-phase audit comparator",
+    "blind diagnostic, no formal guarantee"
+  ],
+  "statistical_unit": "topic; ten independent algorithmic seeds per topic; paired topic bootstrap confidence intervals and paired permutation tests",
+  "code_sha256": {
+    "prepare_data.py": "2acd25f53a1ca9de4c3aa54fe316a7c310e61605330f01d0c7d57378856e2c1b",
+    "features.py": "9ff67e2ac844d19e9ff7ffccd94e10f653ae72df6a76c9252f82e829a2b55457",
+    "certificates.py": "6d1f59054b0a45e183bf5fd35d3871e04599a0cdc89a516885061aac4bf5c5c2",
+    "experiment.py": "76b10f356aa8d7c817e3a462226c5f384dfa1acab1b899f764d8fd1fc49e78df"
+  },
+  "config_sha256": "6060e51b0bcf39c2b07052e07c486e5391b0fdb147aa3e13cc647f88f78d948d"
+}
